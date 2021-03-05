@@ -15,7 +15,7 @@ USING AND TESTING
 
 In order to use the web service, you have to do the following:
 
-If not installed earlier, install Java Runtime (JRE) 11 or later. If you want to do further development (or for example configure embedded Tomcat) then you’ll need also JDK 11 or later.
+If not installed earlier, install Java Runtime (JRE) 11 or later. If you want to do further development (or for example configure embedded Tomcat) then you’ll need also JDK 11 or later. After your code changes, you just need to use 'mvnw package' to create new executable .jar file.
 
 Clone the repository using the following command: git clone https://github.com/kyostisutinen/ebiTest.git. Once you have cloned repository, go to root folder of ebiTest. In this folder you’ll see README.md -file and ebitest -subfolder.
 
